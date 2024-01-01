@@ -376,3 +376,17 @@ When everything is done, push your final code onto github and submit your repo l
 ---
 
 # Rubric
+
+| Name                                   | Description                                             | Points |
+|----------------------------------------|---------------------------------------------------------|--------|
+| Student Name in Comments               | Student's name included in comments at the top of the code | 5      |
+| Code Comments                          | Adequate comments explaining code logic                | 15     |
+| Code Compilation                       | Code compiles without errors                            | 15     |
+| Contains Method                        | ContainsStore method works as expected                 | 10     |
+| By Index Method                        | StoreByCategory method works as expected                | 10     |
+| List of Index Method                   | AllStoresOfACategory method works as expected           | 10     |
+| List of Items Method                   | AllStoresOnLevel method works as expected               | 10     |
+| Custom Array - Contains Method         | ContainsStore method works correctly with custom array  | 10     |
+| Custom Array - By Index Method         | StoreByCategory method works correctly with custom array | 10     |
+| Custom Array - List of Index Method    | AllStoresOfACategory method works correctly with custom array | 10     |
+| Custom Array - List of Items Method    | AllStoresOnLevel method works correctly with custom array | 10     |
